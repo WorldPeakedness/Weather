@@ -83,6 +83,9 @@ public class WeatherActivity extends AppCompatActivity {
         Log.d("GitHubdemo", "onCreate: ");
 
         Log.d("11111111111111111111111", "onCreate: ");
+
+        Log.d("瓜皮不信测试", "onCreate: ");
+
         initView();
 
         drawerLayout=(DrawerLayout) findViewById(R.id.drawer_layout);
